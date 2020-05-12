@@ -1,0 +1,75 @@
+.topnav {
+background-color: transparent;
+overflow: hidden;}
+
+.topnav a {float: left;
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;}
+
+.topnav a:hover {
+background-color: black;
+color: white;
+text-decoration: none;}
+
+.topnav .icon {
+display: none;}
+
+body {
+background-color: white;
+font-family: Arial, helvetica, sans-serif;
+margin-right: 150px;
+margin-left: 75px;
+}
+
+h1 {
+	background-color: white;
+}
+
+h2 {
+	background-color: white;
+}
+
+/*Can use these CSS items if wanted but they don't change anything on the website
+img {
+	background-color: transparent;
+}*/
+
+#caregivers {
+	background-color: white;
+	margin-bottom: 20px;
+	text-align: left;
+}
+#tagline {
+	background-color: white;
+	font-size: 25px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+#copyright {
+	background-color: white;
+	padding-bottom: 5px;
+	font-weight: bolder;
+	font-style: italic;
+	text-align: center;
+}
+
+#banner {
+	text-align: center;
+	margin-top:-590px;
+	margin-left: 75px;
+}
+
+#form {
+	text-align: left;
+}
+
+#Proprieter {
+	text-align: right;
+	margin-top: -605px;
+	margin-right: 70px;
+}

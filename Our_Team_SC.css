@@ -1,0 +1,56 @@
+.topnav {
+background-color: transparent;
+overflow: hidden;}
+
+.topnav a {float: left;
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;}
+
+.topnav a:hover {
+background-color:black;
+color: white;
+text-decoration: none;}
+
+.topnav .icon {
+display: none;}
+
+body {
+	background-color: white;
+	font-family: Arial, helvetica, sans-serif
+}
+
+h1 {
+	
+}
+
+/*Can use these CSS items if wanted but they don't change anything on the website
+img {
+	background-color: transparent;
+}*/
+
+#tagline {
+	font-weight: bold;
+	text-align: center; 
+}
+
+#leader {
+	margin-bottom: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#copyright {
+	font-weight: bolder;
+	font-family: italic;
+	text-align: center;
+}
+
+#Grandma {
+	text-align: right;
+	margin-top: -500px;
+	margin-right: 125px;
+}

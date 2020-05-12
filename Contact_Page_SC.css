@@ -1,0 +1,62 @@
+.topnav {
+background-color: transparent;
+overflow: hidden;}
+
+.topnav a {float: left;
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;}
+
+.topnav a:hover {
+background-color:black;
+color: white;
+text-decoration: none;}
+
+.topnav .icon {
+display: none;}
+
+body {
+	background-color:white;
+	font-family: Arial, helvetica, sans-serif;
+}
+h2 {
+	font-weight: none;
+}
+/*Can use these CSS items if wanted but they don't change anything on the website
+img {
+	background-color: transparent;
+}*/
+
+#contact_location {
+	
+}
+
+/*the part filled in with red is what #form is used to edit in CSS*/
+
+
+#form {
+	background-color: white;
+}
+
+#smiley_emoji {
+	background-color: transparent;
+	text-align: center;
+	margin-top: 0px;
+}
+
+#copyright {
+	font-size: 20px;
+	margin-top: 20px;
+	font-weight: bolder;
+	font-style: italic;
+	text-align: center;
+}
+
+#tagline {
+
+	font-weight: bold;
+	text-align: center;
+}
